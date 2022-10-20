@@ -2,8 +2,10 @@
 
 /**
  * main - Print _putchar
- * Return: Always 0
+ * is written by charles nzisa
+ * Return: 0
  */
+
 int main(void)
 {
 _putchar('_');
